@@ -1,0 +1,10 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.18"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kirugan\\": "src/"
+        }
+    }
+}
